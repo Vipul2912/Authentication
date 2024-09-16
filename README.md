@@ -171,8 +171,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 If you have any questions, feel free to reach out:
 
 - Author: Vipul
-- Email: your-email@example.com
+- Email: vipultyagi52444@gmail.com
 
 ```
 
-Replace placeholders like `your_mongo_db_connection_string`, `your_jwt_secret`, and `your-email@example.com` with actual values specific to your project setup.
+Replace placeholders like `your_mongo_db_connection_string`, `your_jwt_secret`, and with actual values specific to your project setup.
