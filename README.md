@@ -1,5 +1,4 @@
 
-```markdown
 # Authentication
 
 This is an authentication project that includes a user registration, login, and password reset functionality. It is built with a React frontend and a Node.js/Express backend, using MongoDB as the database. The project demonstrates secure handling of user authentication and password management.
@@ -37,7 +36,6 @@ Follow these instructions to set up and run the project locally.
 ```bash
 git clone https://github.com/Vipul2912/Authentication.git
 cd Authentication
-```
 
 ### Backend Setup
 
